@@ -107,13 +107,14 @@ setInterval(()=>{
 
 let smenu = document.querySelector("#sidemenu");
 let closemenu = document.querySelector("#menuuclose")
-
 let menu = document.querySelector("#menu");
-menu.addEventListener("touch",()=>{
-    smenu.style.right = "0";
-});
-closemenu.addEventListener("touch",()=>{
+
+
+closemenu.addEventListener("touchstart",()=>{
     smenu.style.right = "-27%";
+});
+menu.addEventListener("touchstart",()=>{
+    smenu.style.right = "0";
 });
 
 let projects = document.querySelector(".projects");
