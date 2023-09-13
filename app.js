@@ -117,12 +117,6 @@ menu.addEventListener("touchstart",()=>{
     smenu.style.right = "0";
 });
 
-let projects = document.querySelector(".projects");
-
-projects.addEventListener("touch",()=>{
-
-})
-
 
 
 

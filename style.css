@@ -124,7 +124,7 @@ html,body{
     justify-content: space-between;
     width: 100%;
     position: absolute;
-    bottom: 3%;
+    bottom: 7%;
     margin-right: 40px;
     
 }
@@ -292,7 +292,7 @@ html,body{
         background:rgb(255, 255, 255);
         position: fixed;
         top: 0;
-        right: 0;
+        right: -27%;
         width: 27%;
         height: 90vh;
         padding-top: 10px;
@@ -309,6 +309,5 @@ html,body{
     #menuu ul li a{
         color: black;
         font-weight: 900;
-    }
-    
+    }   
 }
