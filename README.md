@@ -1,4 +1,4 @@
-# cynthia-ugwu
+# cynthia-ugwu web clone
 # sample-portfolio
 
 Welcome to my personal portfolio website! This project was inspired by the incredible work of Cintia Ugwu, 
