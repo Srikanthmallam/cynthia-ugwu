@@ -2,7 +2,7 @@
 # sample-portfolio
 
 Welcome to my personal portfolio website! This project was inspired by the incredible work of Cintia Ugwu, 
-and it serves as a showcase of my skills, projects, and interests. You can access the live website [here](https://srikanthmallam.github.io/sample-portfolio/).
+and it serves as a showcase of my skills, projects, and interests. You can access the live website [here](https://srikanthmallam.github.io/srikanthMallam/).
 
 the original award winning work of cintia ugwu visit [here](https://www.cynthiaugwu.com/).
 
